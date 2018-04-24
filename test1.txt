@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7E04-51AB
+
+ Directory of C:\Users\Naga's\Desktop\test
+
+04/24/2018  08:41 AM    <DIR>          .
+04/24/2018  08:41 AM    <DIR>          ..
+04/24/2018  08:41 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  394,153,451,520 bytes free
